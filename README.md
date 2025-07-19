@@ -1,6 +1,6 @@
 # ChatGPT 中文版 - ChatGPT 镜像网站：国内免费访问指南【3月持续更新】      
 
->更新时间: 2025-05-27
+>更新时间: 2025-07-20
 
 **全面使用 [ChatGPT 中文版](https://xsimplechat.com)，无需翻墙，支持 GPT-4、GPT-4o、o1、o3 及中文版功能服务！**
 
@@ -38,7 +38,7 @@
 
 | 中文站网址                                   | 支持模型                         | 稳定性 | 功能亮点                                                         |
 |---------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
-| **[蓝鲸AI](https://chat.lanjing.pro)** | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | **ChatGPT 中文版**，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
+| **[蓝鲸AI](https://chat.lanjingai.org)** | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | **ChatGPT 中文版**，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
 | **[xsimplechat.com](https://xsimplechat.com)**     | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | **ChatGPT 镜像网站**，支持 4o、o1、o3 等全模型，支持 AI 写作、AI 编程、AI 办公，满足多种行业需求   |
 | **[chatgpt-chinese.com](https://chatgpt-chinese.com)** | GPT-4, GPT-4o, o1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini           | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
